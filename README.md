@@ -1,6 +1,6 @@
 A pixel font light theme for RivaTuner Statistics Server ~
 
-<img width="481" height="728" alt="image" src="https://github.com/user-attachments/assets/3903bb74-d8df-4115-9520-65b62287850d" />
+<img width="481" height="728" alt="image" src="https://github.com/user-attachments/assets/6a331bad-b01d-4e58-a196-d1e4d82907fe" />
 <br/><br/><br/>
 
 Build ~
